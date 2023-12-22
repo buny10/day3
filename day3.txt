@@ -1,2 +1,4 @@
 this is my first line.
 ok done 
+
+day 3 of workshop
